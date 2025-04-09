@@ -1,0 +1,5 @@
+Najlepsze dopasowanie:
+Plik: 1__M_Left_index_finger.BMP
+Czas dopasowania: 0.0030 s
+Liczba dopasowanych punktów: 9
+Zamiennik metryki MattesMutualInformation: 2.35
